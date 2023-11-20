@@ -1,4 +1,4 @@
 # sunnykler.github.io
-[[CV]] 
-[[Guidelines]] 
-[[About]] 
+[CV](CV.md)  
+[[Guidelines]]  
+[[About]]  
